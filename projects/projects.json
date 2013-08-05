@@ -1609,6 +1609,24 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "PHPRegex",
+      "thumb": "phpregex/thumb.png",
+      "desc": "PHPRegex is a small utility to test regular expression using PHP's built in regular expression matching function.",
+      "url": "http://phpregex.appspot.com/",
+      "submitter": "bharrat",
+      "submissionDate": "2013-08-05",
+      "tags": [
+        "php",
+        "regex",
+        "regexp",
+        "regular expression",
+        "toy",
+        "No jQuery",
+        "programming",
+        "bootstrap"
+      ]
     }
   ]
 }
